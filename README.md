@@ -7,27 +7,27 @@ The Finance Calculator is a Python program consisting of two financial calculato
 
 *Function*
 
-<p>The investment calculator takes in the following input:
+<p> The investment calculator takes in the following input:
 
-*Deposit amount
+* Deposit amount
 
-*interest rate
+* interest rate
 
-*The amount of years to invest for
+* The amount of years to invest for
 
-*The type interest(compund or simple)
+* The type interest(compund or simple)
 
-<p>The home loan repayment calculator take in the following input:
+<p> The home loan repayment calculator take in the following input:
 
-*Current value of property
+* Current value of property
 
-*Bond interest rate
+* Bond interest rate
 
-*Interest rate
+* Interest rate
 
-*Period of time needed to pay off
+* Period of time needed to pay off
 
-*Bond calculation
+* Bond calculation
 
 
 
